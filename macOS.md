@@ -12,6 +12,11 @@
 
 *   Alfred 3：效率神器。[下载](https://www.alfredapp.com/)
 
+### 网络工具
+
+FTP工具
+
+*   Cyberduck：简单易用的FTP工具，同时支持OneDrive，Google Drive。[下载](https://cyberduck.io/download/)
 
 ### 网络代理
 
